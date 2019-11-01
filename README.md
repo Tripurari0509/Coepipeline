@@ -1,4 +1,4 @@
-# A Java/Maven/JUnit HelloWorld example
+﻿# A Java/Maven/JUnit HelloWorld example
 
 A „Hello World!” sample written in Java using Maven for the build, that showcases a few very simple tests.
 
@@ -10,7 +10,7 @@ This example tripurari acharya demontrates:
 * Code coverage reports via [JaCoCo](https://www.jacoco.org/jacoco/)
 * A Maven build that puts it all together
 
-## Running the tests
+## Running the tests with tripurari
 
 * To run the unit tests, call `mvn test`
 * To run the integration tests as well, call `mvn verify`
