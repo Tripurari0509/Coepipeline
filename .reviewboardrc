@@ -1,2 +1,0 @@
-REVIEWBOARD_URL = 'http://ec2-35-154-30-249.ap-south-1.compute.amazonaws.com/'
-REPOSITORY = 'RB repository'
