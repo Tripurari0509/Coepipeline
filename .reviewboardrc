@@ -1,0 +1,5 @@
+REVIEWBOARD_URL = "http://ec2-13-233-19-167.ap-south-1.compute.amazonaws.com"
+REPOSITORY = "tripurari"
+REPOSITORY_TYPE = "git"
+BRANCH = "master"
+LAND_DEST_BRANCH = "master"
